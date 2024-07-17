@@ -21,4 +21,4 @@ To get started, press the `NEW GAME` button from the title sheet, which will ope
 ### Areas of Improvement
 
 - The circuitboard exists only on the sheet itself, without storing any other "virtual" state in memory. This requires constant interaction with the sheet object, which is not the fastest way to do things.
-- Due to how the circuit flow is simulated, excessively winding wires may cause unexpected behavior. Crossing wires also causes issues around the intersections.
+- Due to how the circuit flow is simulated, excessively winding wires may cause unexpected behavior.
